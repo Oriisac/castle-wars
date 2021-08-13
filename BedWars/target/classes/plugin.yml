@@ -1,0 +1,10 @@
+name: Bedwars
+version: 1.0-SNAPSHOT
+main: server.Bedwars.me
+commands:
+  GiveItems:
+    description: /<command>.
+    usage: /<command>
+  Shop:
+    description: /<command>.
+    usage: /<command>

@@ -1,0 +1,17 @@
+server\Bedwars\me.class
+server\Bedwars\events\PlayerEvents.class
+server\Bedwars\ui\BrewingUI.class
+server\Bedwars\Shop\ClickedOnNPC.class
+server\Bedwars\listeners\InventoryClickListener.class
+server\Bedwars\utils\utils.class
+server\Bedwars\Recipe\RemoveRecipe.class
+server\Bedwars\ui\SpecialUI.class
+server\Bedwars\ui\ArmorsUI.class
+server\Bedwars\Shop\NPC.class
+server\Bedwars\ui\BowUI.class
+server\Bedwars\ui\BlocksUI.class
+server\Bedwars\commands\Commands.class
+server\Bedwars\ui\SwordUI.class
+server\Bedwars\items\ItemManager.class
+server\Bedwars\ui\ShopUI.class
+server\Bedwars\ui\ToolsUI.class
